@@ -13,6 +13,7 @@ $ hub {command}
 ```
 
 コマンド一覧
+
 |command|説明|
 |:------|:---|
 |alias|show shell instructions for wrapping git|
